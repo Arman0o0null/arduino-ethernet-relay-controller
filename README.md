@@ -27,7 +27,7 @@ This project allows you to control relays from a **web interface** and configure
 4. Control relays from the web UI.
 
 ## 📸 Screenshots
-*(Add some screenshots here)*
+//
 
 ## 👨‍💻 Author
 This-is-null - [GitHub Profile](https://github.com/Arman0o0null)
